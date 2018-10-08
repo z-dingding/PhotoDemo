@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoDemo</string>
+
+
+    <string name="usermessage_cancel">取&#160;&#160;消</string>
+    <string name="usermessage_takephoto">拍&#160;&#160;照</string>
+    <string name="usermessage_photoalbum">从相册选择</string>
+</resources>
